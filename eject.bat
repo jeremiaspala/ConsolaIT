@@ -1,0 +1,1 @@
+start tracer.bat %1
